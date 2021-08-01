@@ -76,7 +76,7 @@ mainAudio.addEventListener("timeupdate", (e) => {
 		musicDurationTime.innerText = `${totalMin}:${totalSec}`;
 	});
 	let currentlMin = Math.floor(currentTimes / 60);
-	let currentlSec = Math.floor(durationTimes % 60);
+	let currentlSec = Math.floor(currentTimes % 60);
 	if (currentlSec < 10) {
 		currentlSec = `0${currentlSec}`;
 	}
