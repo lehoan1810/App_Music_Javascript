@@ -12,27 +12,27 @@ let allMusic = [
 		src: "music-2",
 	},
 	{
-		name: "Beauz & Jvna - Crazy",
-		artist: "Beauz & Jvna",
+		name: "Kẻ theo đuổi ánh sáng",
+		artist: "Huy vạc",
 		img: "music-3",
 		src: "music-3",
 	},
-	{
-		name: "Hardwind - Want Me",
-		artist: "Mike Archangelo",
-		img: "music-4",
-		src: "music-4",
-	},
-	{
-		name: "Jim - Sun Goes Down",
-		artist: "Jim Yosef x Roy",
-		img: "music-5",
-		src: "music-5",
-	},
-	{
-		name: "Lost Sky - Vision NCS",
-		artist: "NCS Release",
-		img: "music-6",
-		src: "music-6",
-	},
+	// {
+	// 	name: "Hardwind - Want Me",
+	// 	artist: "Mike Archangelo",
+	// 	img: "music-4",
+	// 	src: "music-4",
+	// },
+	// {
+	// 	name: "Jim - Sun Goes Down",
+	// 	artist: "Jim Yosef x Roy",
+	// 	img: "music-5",
+	// 	src: "music-5",
+	// },
+	// {
+	// 	name: "Lost Sky - Vision NCS",
+	// 	artist: "NCS Release",
+	// 	img: "music-6",
+	// 	src: "music-6",
+	// },
 ];
